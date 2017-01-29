@@ -1,0 +1,11 @@
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\bin\Debug\OpsView.exe.config
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\bin\Debug\OpsView.exe
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\bin\Debug\OpsView.pdb
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\bin\Debug\OpsView.xml
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\OpsView.vbprojResolveAssemblyReference.cache
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\OpsView.frm_OpsView.resources
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\OpsView.Resources.resources
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\OpsView.vbproj.GenerateResource.Cache
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\OpsView.exe
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\OpsView.xml
+c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\OpsView.pdb

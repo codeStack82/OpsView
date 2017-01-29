@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 25.375" name="LINQ_WellHeader">
+  <DataContextMoniker Name="/LINQ_WellHeaderDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2ac544d6-88f2-4abb-8aef-19de00d82471" absoluteBounds="0.75, 0.5, 2, 24.654767252604167">
+      <DataClassMoniker Name="/LINQ_WellHeaderDataContext/wvt_wvWellHeader" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f57ae09-fdd5-499f-84a8-edd04019f893" absoluteBounds="0.76500000000000012, 0.96, 1.9700000000000002, 24.094767252604164" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
