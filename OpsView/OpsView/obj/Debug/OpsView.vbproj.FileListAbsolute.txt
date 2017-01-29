@@ -9,3 +9,7 @@ c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\
 c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\OpsView.exe
 c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\OpsView.xml
 c:\users\thunt2\documents\visual studio 2015\Projects\OpsView\OpsView\obj\Debug\OpsView.pdb
+C:\Users\thunt2\Documents\GitHub\Visual Basic\OpsView\OpsView\OpsView\bin\Debug\OpsView.exe.config
+C:\Users\thunt2\Documents\GitHub\Visual Basic\OpsView\OpsView\OpsView\obj\Debug\OpsView.exe
+C:\Users\thunt2\Documents\GitHub\Visual Basic\OpsView\OpsView\OpsView\obj\Debug\OpsView.xml
+C:\Users\thunt2\Documents\GitHub\Visual Basic\OpsView\OpsView\OpsView\obj\Debug\OpsView.pdb
